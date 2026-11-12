@@ -3,7 +3,7 @@
   <include ref="English.aslx" />
   <include ref="Core.aslx" />
   <game name="Cutscene with HTML Video">
-    <gameid>8e569664-dfa6-4f75-b01c-c7eb223ad13d</gameid>
+    <gameid>8e971fd3-0638-42e0-a04b-78daabc65098</gameid>
     <version>1.0</version>
     <firstpublished>2026</firstpublished>
     <showtitle type="boolean">false</showtitle>
